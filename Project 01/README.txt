@@ -2,7 +2,7 @@ Project Group B 2
 
 
 Members:
-    Kim Jea Hong
+    Kim Jae Hong
     Tanya Nookut
 
 
